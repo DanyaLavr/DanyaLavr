@@ -6,7 +6,7 @@
 💻 Experienced working in teams of 3–10 developers as well as a sole frontend engineer. Background in leadership, code reviews, and architectural decision-making.
 
 🚀 Stack:
-React, Next.js, JavaScript / TypeScript, Redux Toolkit, Tailwind CSS, SCSS, Firebase, REST APIs
+React, Next.js, JavaScript / TypeScript, Redux Toolkit, Tailwind CSS, SCSS
 
 🎯 Current focus:
 Next.js • performance optimization • secure frontend architecture
