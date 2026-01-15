@@ -20,17 +20,22 @@ React, Next.js, JavaScript, TypeScript, Redux Toolkit, Tailwind CSS, SCSS
 
 
 <h2>🎯 Current Focus</h2>
-	•	Next.js & modern React patterns
-	•	Performance optimization
-	•	Secure frontend architecture
+<ul>
+	<li>Next.js & modern React patterns</li>
+	<li>Performance optimization</li>
+	<li>Secure frontend architecture</li>
+</ul>
 
 
 <h2>🔍 What I Focus On</h2>
-	•	Application performance and optimization
-	•	Secure client-side architecture
-	•	Predictable state management
-	•	Clean project structure
-	•	Team collaboration and code quality
+<ul>
+	<li>Application performance and optimization</li>
+	<li>Secure client-side architecture</li>
+	<li>Predictable state management</li>
+	<li>Clean project structure</li>
+	<li>Team collaboration and code quality</li>
+</ul>
+
 
 
 <h2>📌 Projects</h2>
