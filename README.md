@@ -1,21 +1,38 @@
-👋 Hi, I’m Danylo Lavrovskyi, a Frontend Developer focused on building stable, scalable, and secure web applications.
+<h2>👋 About Me</h2>
 
-📍 Location: Alicante, Spain
-💼 Open to work (frontend / web development)
+Hi, I’m Danylo Lavrovskyi, a Frontend Developer focused on building stable, scalable, and secure web applications.
 
-💻 Experienced working in teams of 3–10 developers as well as a sole frontend engineer. Background in leadership, code reviews, and architectural decision-making.
+📍 Location: Alicante, Spain 
 
-🚀 Stack:
-React, Next.js, JavaScript / TypeScript, Redux Toolkit, Tailwind CSS, SCSS
+💼 Open to work (Frontend / Web Development)
 
-🎯 Current focus:
-Next.js • performance optimization • secure frontend architecture
 
-What I focus on:
+<h2>💼 Experience</h2>
+
+I’ve worked in teams of 3–10 developers and also as a sole frontend engineer on projects.
+I have hands-on experience with team leadership, code reviews, and architectural decision-making.
+
+
+<h2>🛠 Tech Stack</h2>
+
+Languages & Tools:
+React, Next.js, JavaScript, TypeScript, Redux Toolkit, Tailwind CSS, SCSS
+
+
+<h2>🎯 Current Focus</h2>
+	•	Next.js & modern React patterns
+	•	Performance optimization
+	•	Secure frontend architecture
+
+
+<h2>🔍 What I Focus On</h2>
 	•	Application performance and optimization
 	•	Secure client-side architecture
 	•	Predictable state management
 	•	Clean project structure
 	•	Team collaboration and code quality
 
-📌 Repositories contain real-world projects with live deployments and production-ready solutions.
+
+<h2>📌 Projects</h2>
+
+My repositories contain real-world projects, live deployments, and production-ready solutions.
