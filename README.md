@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I’m Danylo Lavrovskyi, a Frontend Developer focused on building stable, scalable, and secure web applications.
 
-<!--
-**DanyaLavr/DanyaLavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Location: Alicante, Spain
+💼 Open to work (frontend / web development)
 
-Here are some ideas to get you started:
+💻 Experienced working in teams of 3–10 developers as well as a sole frontend engineer. Background in leadership, code reviews, and architectural decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Stack:
+React, Next.js, JavaScript / TypeScript, Redux Toolkit, Tailwind CSS, SCSS, Firebase, REST APIs
+
+🎯 Current focus:
+Next.js • performance optimization • secure frontend architecture
+
+What I focus on:
+	•	Application performance and optimization
+	•	Secure client-side architecture
+	•	Predictable state management
+	•	Clean project structure
+	•	Team collaboration and code quality
+
+📌 Repositories contain real-world projects with live deployments and production-ready solutions.
